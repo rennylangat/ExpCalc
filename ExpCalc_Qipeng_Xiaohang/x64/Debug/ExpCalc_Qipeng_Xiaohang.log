@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+c:\users\user\desktop\coomp troubleshooting\studypool\2019\expcalc_qipeng_xiaohang\expcalc_qipeng_xiaohang\expcalc_qipeng_xiaohang\calculator.cpp(181): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ExpCalc_Qipeng_Xiaohang.vcxproj -> C:\Users\user\Desktop\COOMP TROUBLESHOOTING\studypool\2019\ExpCalc_Qipeng_Xiaohang\ExpCalc_Qipeng_Xiaohang\x64\Debug\ExpCalc_Qipeng_Xiaohang.exe
